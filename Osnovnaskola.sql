@@ -28,7 +28,7 @@ CREATE TABLE Uciteljica (
 #select * from Dijete;
 
 
-insert into smjer (ID,ime,prezime,oib,kontakt)
+insert into dijete (ID,ime,prezime,oib,kontakt)
 values (null,'Hrvoje','Horvat','119472491171','0915662870');
 
 #select * from Radionica;
